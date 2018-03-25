@@ -1,0 +1,5 @@
+Initializing nautilus-gdu extension
+Nautilus-Share-Message: Called "net usershare info" but it failed: "compartilhamento de rede de usuário" retornou erro 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Arquivo ou diretório não encontrado
+Please ask your system administrator to enable user sharing.
+
+Shutting down nautilus-gdu extension

@@ -1,0 +1,1034 @@
+elks-libc - 16-bit x86 C library and include files
+emacs-goodies-el - Miscellaneous add-ons for Emacs
+erlang-dev - Erlang/OTP development libraries and headers
+freetds-dev - MS SQL and Sybase client library (static libs and headers)
+libacl1-dev - Access control list static libraries and headers
+libaspell-dev - Development files for applications with GNU Aspell support
+libasyncns-dev - Asynchronous name service query library development files
+libattr1-dev - Extended attribute static libraries and headers
+libbluedevil-dev - Development files for libbluedevil
+libboost1.46-dev - Boost C++ Libraries development files
+libburn-dev - development package for libburn4
+libc-ares-dev - library for asynchronous name resolves (development files)
+libcdio-cdda-dev - library to read and control digital audio CDs (development files)
+libcib1-dev - Development file for pacemaker's cib library
+libclucene-dev - library for full-featured text search engine (development)
+libcompizconfig0-dev - Development file for plugin settings - OpenCompositing Project
+libcrmcluster1-dev - Development file for pacemaker's crm library
+libcrmcommon2-dev - Development file for pacemaker's common library
+libdb++-dev - Berkeley Database Libraries for C++ [development]
+libdb-dev - Berkeley Database Libraries [development]
+libdb-sql-dev - Berkeley Database Libraries [SQL development]
+libdb4.8-dev - Berkeley v4.8 Database Libraries [development]
+libdb5.1++-dev - Berkeley v5.1 Database Libraries for C++ [development]
+libdb5.1-dev - Berkeley v5.1 Database Libraries [development]
+libdb5.1-sql-dev - Berkeley v5.1 Database Libraries [SQL development]
+libdb5.1-stl-dev - Berkeley v5.1 Database Libraries [STL development]
+libdebconf-kde-dev - Development headers for the Debconf KDE library
+libdiscid0-dev - Library for creating MusicBrainz DiscIDs (development files)
+libdmapsharing-3.0-dev - DMAP client and server library - development
+libepub-dev - library to work with the EPub file format - development files
+libfli-dev - Finger Lakes Instrument library
+libgcj10-dev - Java development headers for use with gcj
+libgcj12-dev - Java development headers for use with gcj
+libgee-dev - GObject based collection library (development files)
+libgirepository1.0-dev - Library for handling GObject introspection data (development files)
+libgraphviz-dev - graphviz libs and headers against which to build applications
+libgtk-vnc-1.0-dev - VNC viewer widget for GTK+2 (development files)
+libgtk-vnc-2.0-dev - VNC viewer widget for GTK+3 (development files)
+libgtkspell-dev - Development files for GtkSpell
+libgtkspell3-dev - Development files for GtkSpell
+libgvnc-1.0-dev - VNC GObject wrapper (development files)
+libhdate-dev - Provides a library that help use hebrew dates (development files)
+libhttp-cookies-perl - HTTP cookie jars
+libhttp-message-perl - perl interface to HTTP style messages
+libhyphen-dev - ALTLinux hyphenation library - development files
+libisoburn-dev - development package for libisoburn
+libisofs-dev - development package for libisofs
+libjbig2dec0-dev - JBIG2 decoder library - development files
+libjpeg62-dev - Development files for the IJG JPEG library (version 6.2)
+libjpeg8-dev - Development files for the IJG JPEG library
+libjson0-dev - JSON manipulation library - development files
+libklibc-dev - kernel headers used during the build of klibc
+liblaunchpad-integration-cil-dev - CLI bindings for liblaunchpad-integration - development package
+liblcms1-dev - Litle CMS color management library development headers
+liblcms2-dev - Little CMS 2 color management library development headers
+liblockfile-dev - Development library for liblockfile
+liblog4net-cil-dev - highly configurable logging API for the CLI
+libloudmouth1-dev - Development files for Loudmouth Jabber library
+liblouis-dev - Braille translation library - static libs and headers
+libmaa-dev - maa programming library, development files
+libmdds-dev - Multi Dimension Data structure library -- headers
+libmemcached-dev - Development files for libmemcached
+libmilter-dev - Sendmail Mail Filter API (Milter)
+libmilter1.0.1 - Sendmail Mail Filter API (Milter)
+libmilter1.0.1-dbg - Sendmail Mail Filter API (Milter)
+libmozjs185-dev - Spidermonkey javascript library - development headers
+libmusicbrainz4-dev - Second generation incarnation of the CD Index - development
+libmysqlcppconn-dev - MySQL Connector for C++ (development files)
+libneon27-dev - Header and static library files for libneon27
+libneon27-gnutls-dev - Header and static library files for libneon27 (GnuTLS enabled)
+libnjb-dev - Creative Labs Nomad Jukebox library development files
+libntrack-glib-dev - development package for libntrack glib API
+libofa0-dev - Library for acoustic fingerprinting
+libopenexr-dev - development files for the OpenEXR image library
+libopenexr6 - runtime files for the OpenEXR image library
+libossp-uuid-dev - OSSP uuid ISO-C and C++ - headers and static libraries
+libp11-kit-dev - Library for loading and coordinating access to PKCS#11 modules - development
+libpe-rules2-dev - Development file for pacemaker's rules library
+libpe-status3-dev - Development file for pacemaker's status library
+libpeas-dev - Application plugin library (development files)
+libpengine3-dev - Development file for pacemaker's pengine library
+libpoppler-cpp-dev - PDF rendering library -- development files (CPP interface)
+libpoppler-glib-dev - PDF rendering library -- development files (GLib interface)
+libpoppler-qt4-dev - PDF rendering library -- development files (Qt 4 interface)
+libprison-dev - barcode API for Qt - development files
+libpspell-dev - Development files for applications with pspell support
+libqapt-dev - Development headers for the QApt library
+libqoauth-dev - Qt-based client implementation of the OAuth authorization scheme
+libqscintilla2-dev - The Scintilla source code editing widget for Qt4, development files
+libqtbamf-dev - Qt binding and QML plugin for bamf - development files
+libqtdee-dev - Qt binding and QML plugin for Dee - development files
+libqtgconf-dev - Qt binding and QML plugin for GConf - development files
+libqtgstreamer-dev - Development headers for QtGStreamer
+libraptor2-dev - Raptor 2 RDF syntax library development libraries and headers
+librasqal3-dev - Rasqal RDF query library development libraries and headers
+librdf0-dev - Redland RDF library development libraries and headers
+libreadonly-perl - facility for creating read-only scalars, arrays and hashes
+librest-dev - REST service access library (development headers)
+librest-extras-dev - REST service access library extra components (development headers)
+libsepol1-dev - SELinux binary policy maniulation library and development files
+libsgutils2-dev - utilities for devices using the SCSI command set (developer files)
+libslp-dev - OpenSLP development libraries
+libspice-protocol-dev - SPICE protocol headers
+libstartup-notification0-dev - library for program launch feedback (development headers)
+libstonithd1-dev - Development file for pacemaker's stonith library
+libtag1-dev - audio meta-data library - development files
+libtagc0-dev - audio meta-data library - development files for C bindings
+libtelepathy-glib-dev - GLib Telepathy connection manager library (headers)
+libtelepathy-logger-dev - Telepathy logger service -- utility library (headers)
+libtokyocabinet-dev - Tokyo Cabinet Database Libraries [development]
+libtotem-plparser-dev - Totem Playlist Parser library - development files
+libtransitioner1-dev - Development file for pacemaker's transitioner library
+libtunepimp-dev - MusicBrainz tagging library development files
+libudf-dev - library to work with UDF filesystems (development files)
+libunique-3.0-dev - Library for writing single instance applications - development files
+libunique-dev - Library for writing single instance applications - development files
+libutouch-geis-dev - Gesture engine interface support - dev files
+libvformat-dev - library to read and write vcard files (development files)
+libvncserver-dev - API to write one's own vnc server - development files
+libwayland-dev - wayland compositor infrastructure - development files
+libxklavier-dev - Development files for libxklavier
+libyaml-dev - Fast YAML 1.1 parser and emitter library (development)
+libytnef0-dev - improved decoder for application/ms-tnef attachments
+libzip-dev - library for reading, creating, and modifying zip archives (development)
+linux-headers-3.0.0-12 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-12-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-12-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-lbm-3.0.0-12-generic - Header files related to linux-backports-modules version 3.0.0
+llvm-2.8-dev - Low-Level Virtual Machine (LLVM), libraries and headers
+llvm-2.9-dev - Low-Level Virtual Machine (LLVM), libraries and headers
+nettle-dev - low level cryptographic library (development files)
+postfix-dev - Loadable modules development environment for Postfix
+python-mutagen - audio metadata editing library
+python-sip-dev - Python/C++ bindings generator development files
+python3-sip-dev - Python/C++ bindings generator development files
+tcl8.4-dev - Tcl (the Tool Command Language) v8.4 - development files
+tcl8.5-dev - Tcl (the Tool Command Language) v8.5 - development files
+tcpdump - command-line network traffic analyzer
+texlive-font-utils - TeX Live: TeX and Outline font utilities
+texlive-latex-base - TeX Live: Basic LaTeX packages
+texlive-latex-extra - TeX Live: LaTeX supplementary packages
+tk8.4-dev - Tk toolkit for Tcl and X11, v8.4 - development files
+tk8.5-dev - Tk toolkit for Tcl and X11, v8.5 - development files
+unixodbc-dev - ODBC libraries for UNIX (development files)
+uuid-dev - universally unique id library - headers and static libraries
+linux-headers-3.0.0-12-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-lbm-3.0.0-12-generic-pae - Header files related to linux-backports-modules version 3.0.0
+freeglut3-dev - OpenGL Utility Toolkit development files
+libindi-dev - Development headers for INDI Library
+libmtp-dev - Media Transfer Protocol (MTP) development files
+libopenipmi-dev - Intelligent Platform Management Interface - development
+liborc-0.4-dev - Library of Optimized Inner Loops Runtime Compiler (development headers)
+libprotobuf-dev - protocol buffers C++ library (development files)
+libprotoc-dev - protocol buffers compiler library (development files)
+libspeechd-dev - Speech Dispatcher: Bibliotecas de desenvolvimento e ficheiros cabeçalhos
+libvala-0.12-dev - C# like language for the GObject system - development headers
+libvala-0.14-dev - C# like language for the GObject system - development headers
+libwebkit-cil-dev - CLI binding for the WebKit library - development package
+ocfs2-tools-dev - tools for managing OCFS2 cluster filesystems - development files
+xfslibs-dev - XFS filesystem-specific static libraries and headers
+blt-dev - A biblioteca de extensão BLT para Tcl/Tk - arquivos de desenvolvimento
+e2fslibs-dev - ext2/ext3/ext4 file system libraries - headers and static libraries
+lib64ffi-dev - Foreign Function Interface library (development files, 64bit)
+libapr1-dev - Apache Portable Runtime Library - Development Headers
+libaprutil1-dev - Apache Portable Runtime Utility Library - Development Headers
+libaudiofile-dev - Open-source version of SGI's audiofile library (header files)
+libavahi-client-dev - Development files for the Avahi client library
+libavahi-common-dev - Development files for the Avahi common library
+libavahi-compat-libdnssd-dev - Development headers for the Avahi Apple Bonjour compatibility library
+libavahi-glib-dev - Development headers for the Avahi glib integration library
+libavahi-gobject-dev - Development headers for the Avahi GObject library
+libavahi-qt4-dev - Development headers for the Avahi Qt 4 integration library
+libavahi-ui-dev - Development headers for the Avahi GTK+ User interface library
+libavahi-ui-gtk3-dev - Development headers for the Avahi GTK+ User interface library
+libbonobo2-dev - Bonobo CORBA interfaces library -- development files
+libcdio-dev - library to read and control CD-ROM (development files)
+libck-connector-dev - ConsoleKit development files
+libdmx-dev - X11 Distributed Multihead extension library (development headers)
+libdv4-dev - software library for DV format digital video (devel files)
+libffi-dev - Foreign Function Interface library (development files)
+libfontconfig1-dev - generic font configuration library - development
+libfs-dev - X11 Font Services library (development headers)
+libgnome-menu-3-dev - GNOME implementation of the freedesktop menu specification
+libgnome-menu-dev - GNOME implementation of the freedesktop menu specification
+libgpg-error-dev - library for common error values and messages in GnuPG components (development)
+libgpgme11-dev - GPGME - o GnuPG de modo fácil
+libgtkhtml-4.0-dev - HTML rendering/editing library - development files
+libgtkhtml-editor-4.0-dev - HTML rendering/editing library - editor widget development files
+libgtkhtml-editor-dev - HTML rendering/editing library - editor widget development files
+libgtkhtml3.14-dev - HTML rendering/editing library - development files
+libgtop2-dev - gtop system monitoring library (devel)
+libgucharmap-2-90-dev - Unicode browser widget library (development headers for GTK+ 3)
+libgucharmap2-dev - Unicode browser widget library (development headers for GTK+ 2)
+libhunspell-dev - spell checker and morphological analyzer (development)
+libice-dev - X11 Inter-Client Exchange library (development headers)
+libijs-dev - IJS raster image transport protocol: development files
+libimlib2-dev - Imlib2 development files
+liblircclient-dev - infra-red remote control support - client library development files
+libmng-dev - M-N-G library (Development headers)
+libnl2-dev - development library and headers for libnl2
+libnl3-dev - development library and headers for libnl3
+libpcap0.8-dev - development library and header files for libpcap0.8
+libpcre3-dev - Perl 5 Compatible Regular Expression Library - development files
+libqt3-compat-headers - arquivos "include" de compatibilidade entre Qt 1.x e 2.x
+libqt3-headers - arquivos de cabeçalho para Qt3
+libqt3-mt-dev - arquivos de desenvolvimento Qt (com "Thread")
+libshout3-dev - MP3/Ogg Vorbis broadcast streaming library (development)
+libsm-dev - X11 Session Management library (development headers)
+libspeex-dev - The Speex codec library development files
+libspeexdsp-dev - The Speex extended library development files
+libsqlite3-dev - SQLite 3 development files
+libsysfs-dev - interface library to sysfs - development files
+libvisual-0.4-dev - Audio visualization framework (development package)
+libwnck-3-dev - Window Navigator Construction Kit - development files
+libwnck-dev - Window Navigator Construction Kit - development files
+libx11-dev - X11 client-side library (development headers)
+libx11-xcb-dev - Xlib/XCB interface library (development headers)
+libxaw7-dev - X11 Athena Widget library (development headers)
+libxcomposite-dev - X11 Composite extension library (development headers)
+libxdamage-dev - X11 damaged region extension library (development headers)
+libxdmcp-dev - biblioteca de autorização X11 (cabeçalhos de desenvolvimento)
+libxext-dev - X11 miscellaneous extensions library (development headers)
+libxfixes-dev - X11 miscellaneous 'fixes' extension library (development headers)
+libxfont-dev - X11 font rasterisation library (development headers)
+libxine-dev - the xine video player library, development packages
+libxinerama-dev - X11 Xinerama extension library (development headers)
+libxkbfile-dev - X11 keyboard file manipulation library (development headers)
+libxmu-dev - X11 miscellaneous utility library (development headers)
+libxmu-headers - X11 miscellaneous utility library headers
+libxmuu-dev - X11 miscellaneous micro-utility library (development headers)
+libxplc0.3.13-dev - Light weight component system (Development libraries and headers)
+libxpm-dev - X11 pixmap library (development headers)
+libxrandr-dev - X11 RandR extension library (development headers)
+libxres-dev - X11 Resource extension library (development headers)
+libxss-dev - X11 Screen Saver extension library (development headers)
+libxt-dev - X11 toolkit intrinsics library (development headers)
+libxtst-dev - X11 Record extension library (development headers)
+libxv-dev - X11 Video extension library (development headers)
+libxvmc-dev - X11 Video extension library (development headers)
+libxxf86dga-dev - X11 Direct Graphics Access extension library (development headers)
+libxxf86vm-dev - X11 XFree86 video mode extension library (development headers)
+lzma-dev - Compression method of 7z format in 7-Zip program - development files
+mutt - leitor de e-mail em modo texto que suporta MIME, GPG, PGP e encadeamento
+python-gobject-2-dev - development headers for the static GObject Python bindings
+ss-dev - command-line interface parsing library - headers and static libraries
+x11proto-composite-dev - X11 Composite extension wire protocol
+x11proto-core-dev - X11 core wire protocol and auxiliary headers
+x11proto-damage-dev - X11 Damage extension wire protocol
+x11proto-dmx-dev - X11 Distributed Multihead X extension wire protocol
+x11proto-dri2-dev - X11 DRI2 extension wire protocol
+x11proto-fixes-dev - X11 Fixes extension wire protocol
+x11proto-fonts-dev - X11 font extension wire protocol
+x11proto-gl-dev - X11 OpenGL extension wire protocol
+x11proto-input-dev - X11 Input extension wire protocol
+x11proto-kb-dev - X11 XKB extension wire protocol
+x11proto-print-dev - X11 Printing extension (Xprint) wire protocol
+x11proto-randr-dev - X11 RandR extension wire protocol
+x11proto-record-dev - X11 Record extension wire protocol
+x11proto-render-dev - X11 Render extension wire protocol
+x11proto-resource-dev - X11 Resource extension wire protocol
+x11proto-scrnsaver-dev - X11 Screen Saver extension wire protocol
+x11proto-video-dev - X11 Video extension wire protocol
+x11proto-xcmisc-dev - X11 XC-Miscellaneous extension wire protocol
+x11proto-xext-dev - X11 various extension wire protocol
+x11proto-xf86bigfont-dev - X11 Big Fonts extension wire protocol
+x11proto-xf86dga-dev - X11 Direct Graphics Access extension wire protocol
+x11proto-xf86dri-dev - X11 DRI extension wire protocol
+x11proto-xf86vidmode-dev - X11 Video Mode extension wire protocol
+x11proto-xinerama-dev - X11 Xinerama extension wire protocol
+libjulius-dev - speech recognition engine - development headers
+libogmrip-dev - Application for ripping and encoding DVD - development files
+libtriangle-dev - High-quality 2-D mesh generator development files
+open-vm-dkms - Source for VMware guest systems driver (DKMS)
+open-vm-source - Source for VMware guest systems driver
+mp3diags - Procura problemas em ficheiros MP3 e ajuda a resolvê-los
+claws-mail-address-keeper - Address keeper plugin for Claws Mail
+codeblocks-dev - Code::Blocks development files (SDK)
+dahdi-source - DAHDI telephony interface - source code for kernel driver
+docgenerator - generator plugin for python bindings documentation
+drizzle-plugin-dev - Development files for Drizzle plugin development
+ecm - prepares CD image files so they compress better
+ensymble - developer utilities for Symbian OS
+erlang-esdl-dev - Erlang bindings to the SDL (development files)
+festival-dev - Development kit for the Festival speech synthesis system
+fixincludes - Fix non-ANSI header files
+flow-tools-dev - development files for flow-tools
+freecad-dev - FreeCAD development files
+gap-dev - GAP computer algebra system, compiler and development files
+generatorrunner - plugin-based application to run apiextractor-based generators
+generatorrunner-dbg - debugging symbols for generatorrunner, and its brothers
+generatorrunner-doc - documentation for generatorrunner, and its brothers
+giblib-dev - headers for giblib
+gnash-dev - GNU Shockwave Flash (SWF) player - Development files
+gnus-bonus-el - Miscellaneous add-ons for Gnus
+gpsim-dev - Libraries needed only for building gpsim components
+gputils-common - headers and linker scripts for gputils
+happycoders-libdbg-dev - C++ utilities to facilitate modern debugging idioms
+happycoders-libsocket-dev - Generic C++ library implementing Udp/Tcp socket interface - development files
+hybrid-dev - development files for ircd-hybrid
+inn2-dev - The libinn.a library, headers and man pages
+ipset-source - source for ipset kernel modules
+iscsitarget-dkms - iSCSI Enterprise Target kernel module source - dkms version
+iscsitarget-source - iSCSI Enterprise Target kernel module source
+itcl3-dev - [incr Tcl] OOP extension for Tcl - development files
+itk3-dev - [incr Tk] OOP extension for Tk - development files
+kannel-dev - WAP and SMS gateway headers and development files
+kdevelop-pg-qt - LL(1) parser generator based on Qt
+kernel-package - A utility for building Linux kernel related Debian packages.
+lam4-dev - Development of parallel programs using LAM
+lib3ds-dev - Autodesk 3D Studio file reader development files
+lib4store-dev - RDF database storage and query engine -- development files
+libadasockets3-dev - bindings for socket services in Ada
+libadolc-dev - ADOLC development libs and headers
+libalglib-dev - Development files for the alglib library
+libalut-dev - OpenAL Utility Toolkit development files
+libampsharp-cil-dev - Asynchronous Messaging Protocol library for the CLI.
+libanydata-perl - simple tied hash interface for files and data structures
+libanyevent-http-perl - simple non-blocking HTTP/HTTPS client
+libaosd-dev - atheme.org's on screen display library - dev
+libapache2-mod-proxy-html - Apache2 filter module for HTML links rewriting
+libapache2-mod-qos - quality of service module for the apache2
+libapache2-mod-xsendfile - Serve large static files efficiently from web applications
+libapogee-dev - Alta camera control library (development files)
+libapol-dev - Security Enhanced Linux policy analysis development
+libapreq2-dev - generic Apache request library - development files
+libarmadillo-dev - streamlined C++ linear algebra library - Headers
+libasm0-dev - Disassembling engine provided to the ERESI framework
+libaspect0-dev - The ERESI aspect library
+libast2-dev - libast2 development files
+libastro-fits-header-perl - module for reading, modifying and writing FITS headers
+libaudiomask-dev - Audio masking threshold estimation lib headers, docs and examples
+libavifile-0.7-dev - development header files for libavifile
+libbickley-dev - bickley is the client API which access the metadata (dev)
+libbind4-dev - DNS resolver and message parsing static library and headers
+libbisho-common-dev - Meego web services settings library (development files)
+libblocksruntime-dev - Blocks Runtime (development files)
+libbobcat-dev - headers and documentation for the Bobcat library
+libbobcat2 - run-time (shared) Bobcat library
+libboost1.42-dev - Boost C++ Libraries development files
+libbtparse-dev - A C library to parse BibTeX files - development files
+libbuffy-dev - Base functions for building mailbox summary applications
+libc6-dev-armel-cross - Embedded GNU C Library: Development Libraries and Header Files (for cross-compiling)
+libc6-dev-armhf-cross - Embedded GNU C Library: Development Libraries and Header Files (for cross-compiling)
+libccss-dev - simple api for CSS stylesheets (development headers)
+libcddb2-dev - library to access CDDB data - development files
+libcgi-application-extra-plugin-bundle-perl - Extra Plugins for CGI::Application
+libcgi-application-plugin-devpopup-perl - debugging framework for CGI::Application
+libchasen-dev - Japanese Morphological Analysis System (libraries and headers)
+libcheese-dev - tool to take pictures and videos from your webcam - base dev
+libcheese-gtk-dev - tool to take pictures and videos from your webcam - widgets dev
+libchm-dev - library for dealing with Microsoft CHM files (development)
+libcimcclient0-dev - small footprint CIM client development headers
+libclaws-mail-dev - Development files for Claws Mail plugins
+libcliquer-dev - clique searching library (development headers)
+libcmpicppimpl0-dev - C and C++ CMPI development headers
+libcneartree-dev - Library and headers for solving the Nearest Neighbor Problem
+libcomedi-dev - Development library for Comedi
+libcomplearn1-headers - machine-learning through data compression header files
+libcourriel-perl - high level email parsing and manipulation module
+libcpprspserver-dev - headers of the C++ RSerPool client/server API library
+libcppunit-subunit-dev - SubunitTestProgressListener for CPPUnit - Development headers
+libcqrlib2-dev - Library and headers for quaternion arithmetic and rotation math
+libcupt2-dev - alternative front-end for dpkg -- development files
+libcxxtools-dev - library of unrelated but useful C++ classes
+libdap-dev - Development files (headers and static libraries) for libdap
+libdb4.7-dev - Berkeley v4.7 Database Libraries [development]
+libdebian-dpkgcross-perl - functions to aid cross-compiling Debian packages
+libdevel-checklib-perl - module for checking the availability of a library
+libdiagnostics-dev - Logging, unittesting, and runtime diagnostics for C++ - development files
+libdjconsole-dev - Hercules DJ Console access library - development headers
+libdm0-dev - Data Management API static libraries and headers
+libdnet-dev - DECnet development libraries & Headers
+libdockapp-dev - Window Maker Dock App support (development files)
+libdspam7-dev - Development headers for libdspam
+libdxflib-dev - Development files for the dxflib library
+libe2dbg0-dev - The Embedded ELF debugger library
+libeb16-dev - C library for accessing electronic books (development files)
+libecore-dev - Ecore headers and static libraries
+libedbus-dev - D-Bus and HAL wrapper libraries for use with the EFL - Development files
+libedfmt0-dev - The ERESI debug format library
+libedje-dev - libedje headers and static libraries
+libeet-dev - Enlightenment DR17 file chunk reading/writing library development files
+libefreet-dev - Development files for libefreet and libefreet-mime
+libeina-dev - Development files for libeina
+libelementary-dev - Development files for libelementary
+libelfsh0-dev - The ELF shell library
+libemail-date-perl - Perl module for correct formatting of dates in emails
+libemail-folder-perl - Perl module to read mail from a folder
+libemail-messageid-perl - Perl library for unique mail Message-ID generation
+libemail-mime-contenttype-perl - Parse a MIME Content-Type Header
+libemail-mime-creator-perl - transitional dummy package for now-defunct Email::MIME::Creator
+libemail-mime-modifier-perl - transitional dummy package for now-defunct Email::MIME::Modifier
+libemail-mime-perl - module for simple MIME message parsing
+libemail-simple-perl - module to parse RFC2822 headers and message format
+libemail-thread-perl - library providing threading for Email::Simple objects
+libembryo-dev - Development files for libembryo1
+libemos-dev - ECMWF Interpolation Library - development
+libenet-dev - thin network communication layer on top of UDP - headers
+libepc-dev - Easy Publish and Consume library - development files
+libepc-ui-dev - Easy Publish and Consume library - widget development files
+libepr-api2-dev - ENVISAT Product Reader API for C - Development files
+libestr-dev - Helper functions for handling strings (headers)
+libethos-dev - GObject library for application plugins - development files
+libethos-ui-dev - GObject library for application plugins, GTK+ integration - development files
+libetrace0-dev - The ERESI tracer library
+libevas-dev - Enlightenment DR17 advanced canvas library development files
+libexchangemapi-1.0-dev - client library for accessing Exchange servers - development
+libextutils-cchecker-perl - helper module for handling C headers and libraries
+libfaifa-dev - manage HomePlug 1.0/AV devices via ethernet frames - devel library
+libffms2-dev - Development files for libffms2
+libflickcurl-dev - C library for accessing the Flickr API - development files
+libfltk1.3-compat-headers - Fast Light Toolkit - compatibility header symlinks
+libfm-dev - file management support - development headers
+libfox-1.6-dev - Development files for the FOX C++ GUI Toolkit
+libfparser-dev - Development files for the fparser library
+libframeworkd-glib-dev - glib bindings to frameworkd (development headers)
+libfreehdl0-dev - VHDL simulator for Linux (development headers)
+libfreeimage-dev - Support library for graphics image formats (development files)
+libfuzzy-dev - Recursive piecewise hashing tool (development headers)
+libgarcon-1-0-dev - Development files for garcon
+libgcj11-dev - Java development headers for use with gcj
+libgdamm4.0-dev - C++ wrappers for libgda3 (library headers)
+libgdcm2-dev - Grassroots DICOM development libraries and headers
+libgenrunner-dev - generatorrunner dedicated library headers
+libgfs-dev - Gerris Flow Solver -- development libraries and headers
+libgfs-mpi-dev - Gerris Flow Solver -- development libraries and headers
+libgfshare-dev - library for multi-way secret-sharing (headers)
+libglbsp-dev - node builder library for OpenGL-based Doom-style games (headers)
+libglom-1.18-dev - Glom library (a database designer and user interface) - header files
+libglw1-mesa-dev - A free implementation of the OpenGL API -- development files
+libgmt-dev - Generic Mapping Tools Library
+libgnome-mag-dev - screen magnification library for the GNOME desktop (development headers)
+libgnome-speech-dev - GNOME text-to-speech library (development headers)
+libgnomeprintui2.2-dev - GNOME print architecture User Interface - devel files
+libgnuradio - GNU Radio C++ API libraries
+libgnuradio-dev - Development headers for GNU Radio C++ development
+libgnustep-dl2-dev - development files for gnustep-dl2 runtime libraries
+libgpewidget-dev - Development files for libgpewidget
+libgpib0-dev - C bindings for GPIB (IEEE 488) kernel driver -- headers
+libgpiv3-dev - library for Particle Image Velocimetry (PIV) - development files
+libgraphicsmagick++1-dev - format-independent image processing - C++ development files
+libgraphicsmagick1-dev - format-independent image processing - C development files
+libgraphite-dev - Development files for SILGraphite
+libgrib2c-dev - NCEP GRIB2 library - development files
+libgringotts-dev - development files for the gringotts data encapsulation library
+libgsm0710-dev - development files for use with libgsm0710
+libgsmme-dev - Header files and static libraries for gsmlib
+libgsql-dev - Integrated database development tool for GNOME
+libgst-dev - GNU Smalltalk virtual machine development files
+libgtkgl2.0-dev - OpenGL context support for GTK+ (development files)
+libgtkhotkey-dev - Gtk hotkey static libraries and headers
+libgts-dev - development files for libgts
+libguichan-dev - small, efficient C++ GUI library (development headers)
+libhd-dev - Hardware identification system library and headers
+libhocr-dev - Developemnt files for hocr library
+libhsclient-dev - HandlerSocket client library
+libhtml-mason-perl - HTML::Mason Perl module
+libhtml-mason-perl-doc - HTML::Mason documentation
+libhtml-mason-perl-examples - HTML::Mason example setup
+libhttp-cache-transparent-perl - Perl module used to transparently cache HTTP requests
+libhttp-link-parser-perl - parse HTTP Link headers
+libhubbub0-dev - HTML5 Parser - Development
+libhugetlbfs-dev - A library which provides easy access to huge pages of memory
+libhwloc-dev - Hierarchical view of the machine - static libs and headers
+libhyantes-dev - development files for libhyantes
+libhypre-dev - High Performance Matrix Preconditioners - Development Files
+libicns-dev - libicns development files
+libiksemel-dev - C library for the Jabber IM platform
+libimage-metadata-jpeg-perl - Perl extension for showing/modifying JPEG (meta)data
+libinfinity-0.5-dev - infinote-based collaborative editing - development files
+libinnodb-dev - Embedded InnoDB Library (dev files)
+libinotifytools0-dev - Development library and header files for libinotifytools0
+libinstpatch-dev - MIDI instrument editing library development files
+libiso9660-dev - library to work with ISO9660 filesystems (development files)
+libjabberd2-dev - Development files for the Jabber/XMPP instant messaging server
+libjboss-marshalling-java - alternative serialization API
+libjemalloc-dev - development files and documentation for jemalloc
+libkeybinder-dev - registers global key bindings for applications - development headers
+libkface-dev - Development files for libkface
+libkgeomap-dev - Development files for libkgeomap
+libkmflcomp-dev - Development files for libkmflcomp
+libkozo-dev - kozo is a database abstraction around the TDB library (dev)
+libkvkontakte-dev - Development files for libkvkontakte
+libldns-dev - ldns library for DNS programming
+liblivemedia-dev - multimedia RTSP streaming library
+liblo-dev - Lightweight OSC library -- development files
+liblouisutdml-dev - Braille UTDML translation library - static libs and headers
+liblouisxml-dev - Braille XML translation library - static libs and headers
+liblowpan-dev - Include files and examples for writing programming for LoWPAN
+liblrdf0-dev - liblrdf0 development files
+liblrs-dev - package to enumerate vertices and extreme rays (static libraries and headers)
+liblua40-dev - Main interpreter library for lua40: static library and headers
+liblua5.1-socket-dev - TCP/UDP socket library for Lua 5.1
+liblua50-dev - Main interpreter library for Lua 5.0: static library and headers
+liblua50-socket-dev - TCP/UDP socket library for Lua 5.0
+libluabind-dev - luabind c++ binding for lua: static library and headers
+liblualib40-dev - Extension library for Lua 4.0: static and headers
+liblualib50-dev - Extension library for Lua 5.0: static and headers
+liblv2dynparam1-dev - lv2dynparam is a LV2 plugin interface extension
+libmadlib-dev - mesh adaptation library
+libmail-field-received-perl - mostly RFC822-compliant parser of Received headers
+libmail-imaptalk-perl - IMAP client interface with lots of features
+libmail-thread-perl - library for threading email by In-Reply-To and References
+libmcs-dev - development library and headers for libmcs1
+libmediawiki-dev - Development files for libmediawiki
+libmemcache-dev - development headers for libmemcache C client API
+libmimelib1-dev - mime library - development
+libming-dev - Library to generate SWF (Flash) Files (development files)
+libmini18n-dev - minimal internationalization library - devel headers
+libmjollnir0-dev - Flow analysis and fingerprinting component of the ERESI framework
+libmlt++-dev - MLT multimedia framework C++ wrapper (development)
+libmlt-dev - multimedia framework (development)
+libmopac7-dev - Semi-empirical Quantum Chemistry Library (development files)
+libmpd-dev - High-level client library for accessing Music Player Daemon
+libmpeg2-4-dev - libmpeg2 development libraries and headers
+libmpeg3-dev - Headers and static libraries for libMPEG3
+libmpich2-dev - Development files for MPICH2
+libmrpt-dev - Mobile Robot Programming Toolkit - Development headers
+libmudflap0-4.4-dev - GCC mudflap support libraries (development files)
+libmudflap0-4.4-dev-armel-cross - GCC mudflap support libraries (development files)
+libmudflap0-4.4-dev-armhf-cross - GCC mudflap support libraries (development files)
+libmudflap0-4.5-dev - GCC mudflap support libraries (development files)
+libmudflap0-4.5-dev-armel-cross - GCC mudflap support libraries (development files)
+libmudflap0-4.5-dev-armhf-cross - GCC mudflap support libraries (development files)
+libmudflap0-4.6-dev - GCC mudflap support libraries (development files)
+libmudflap0-4.6-dev-armel-cross - GCC mudflap support libraries (development files)
+libmudflap0-4.6-dev-armhf-cross - GCC mudflap support libraries (development files)
+libmupdf-dev - development files for the MuPDF viewer
+libmuroar-dev - minimalist RoarAudio client library (development headers)
+libmygpo-qt-dev - Development headers for the mygpo-qt library
+libncap-dev - static library and header files for libncap
+libncp-dev - libncp: development libraries and header files
+libnet-stomp-perl - Perl module providing a Streaming Text Orientated Messaging Protocol Client
+libnewlib-dev - newlib C library (devel)
+libnewmat10-dev - matrix manipulations library (C++ headers files)
+libnews-article-perl - Perl modules for manipulating Usenet articles
+libnfo-dev - an NFO file parser/writer library -- development files
+libnoise-dev - a portable, coherent noise-generating library for C++
+libnsbmp0-dev - NetSurf BMP decoder - Development files
+libnsgif0-dev - NetSurf GIF decoder - Development files
+libnuma-dbg - Debug package for libnuma
+libnuma-dev - Development files for libnuma
+libnxcl-dev - NX X compression client library---headers
+libogre-dev - 3D Object-Oriented Graphics Rendering Engine (development files)
+libopenafs-dev - AFS distributed filesystem development libraries
+libopenct1-dev - headers and development libraries for libopenct1
+libopendrim0-dev - OpenDRIM Provider Common Library - development files
+libopenr2-dev - MFC/R2 (telephony) call setup library - development headers
+libopenscenegraph-dev - 3D scene graph, development files
+libopensync1exp7-dev - Headers and static libraries for libopensync
+libopenthreads-dev - Object-Oriented (OO) thread interface for C++, development files
+libopenturns-dev - headers and development libraries for OpenTURNS
+libopenvas2-dev - remote network security auditor - static libraries and headers
+libopenvasnasl2-dev - OpenVAS static libraries and headers
+libopenwsman-dev - Open Web Services Manager library development files
+liborange-dev - library to extract CAB files - development headers
+libpacketdump3-dev - development headers for the libtrace network processing library
+libpano13-dev - panorama tools library development files
+libpar2-0-dev - Headers for the libpar2-0 library
+libparserutils0-dev - A utility library for parser building - Development files
+libpcp-gui2-dev - Performance Co-Pilot graphical client tools library and headers
+libpcp-import1-dev - Performance Co-Pilot data import library and headers
+libpcp-mmv1-dev - Performance Co-Pilot Memory Mapped Value library and headers
+libpcp-pmda3-dev - Performance Co-Pilot Domain Agent library and headers
+libpcp-trace2-dev - Performance Co-Pilot application tracing library and headers
+libpcp3-dev - Performance Co-Pilot library and headers
+libpgm-dev - OpenPGM development files
+libphat-dev - Development files (headers) for libphat
+libpilotobjects-dev - objects for pilot-qof - headers
+libplotmm-dev - Headers for developing programs that will use plotmm
+libpocketsphinx-dev - lightweight speech recognition - development files
+libpod-markdown-perl - module to convert POD to the Markdown file format
+libpoldiff-dev - Security Enhanced Linux semantic policy differences development
+libprojectm-dev - Advanced Milkdrop-compatible music visualization library - dev
+libprotobuf-c0-dev - Protocol Buffers C static library and headers
+libpt-1.10.10-dev - Portable Windows Library development files
+libpt-dev - Portable Tools Library development files
+libpt2.4.5-dev - Portable Tools Library development files
+libptscotch-dev - MPI programs and libraries for graph, mesh and hypergraph partitioning
+libpyside-dev - Python bindings for Qt 4 (development files)
+libqdbm-dev - QDBM Database Libraries [development]
+libqof-dev - Query Object Framework - Development Headers
+libqpol-dev - Security Enhanced Linux policy abstraction development
+libqpx-dev - CD/DVD quality checker (development files)
+libqscintilla-dev - Qt source code editing component - development files
+libqtsolutions-soap-2.7-1 - Basic web service support with version 1.1 of the SOAP protocol.
+libqxmlrpc-dev - full Qt4 based implementation of XML-RPC protocol. (headers)
+libqxmlrpc-doc - full Qt4 based implementation of XML-RPC protocol. (headers)
+libqxmpp-dev - Development files for the QXmpp library
+libresample1-dev - real-time audio resampling library - development files
+librevm0-dev - The Reverse Engineering Vector Machine
+librheolef-dev - Finite elements for partial differential equations (headers)
+libroar-dev - header files and documentation for the RoarAudio libraries
+librsplib-dev - headers of the RSerPool client/server API library rsplib
+libsaml2-dev - Security Assertion Markup Language library (development)
+libscamperfile0-dev - development headers for scamper's binary dump file access library
+libscotch-dev - programs and libraries for graph, mesh and hypergraph partitioning
+libscythestat-dev - header files for Scythe statistics library.
+libsdl-pango-dev - text rendering with Pango in SDL applications (development)
+libseaudit-dev - Security Enhanced Linux audit message parser development
+libsefs-dev - Security Enhanced Linux file context management development
+libserf-dev - high-performance asynchronous HTTP client library headers
+libserial-dev - Serial port programming in C++ under POSIX operating system
+libshiboken-dev - development files for the shiboken bindings generator library
+libshiboken1.0 - CPython bindings generator for C++ libraries - shared library
+libshibsp-dev - Federated web single sign-on system (development)
+libsilc-dev - developer files for the SILC library (silc-toolkit)
+libsimplelist0-dev - memory-efficient generic linked list library
+libslv2-dev - Development files (headers) for SLV2 library
+libsmartirc4net-cil-dev - IRC library for CLI
+libsocialweb-client-dev - client library to access socialweb server (development headers)
+libsocialweb-client-doc - client library to access socialweb server (development headers)
+libsocialweb-dev - socialweb library to fetch data from social service (dev. headers)
+libsocialweb-doc - socialweb library to fetch data from social service (dev. headers)
+libsofia-sip-ua-dev - Sofia-SIP library development files
+libsofia-sip-ua-glib-dev - Sofia-SIP library glib/gobject interface development files
+libsoqt-dev-common - Qt GUI component toolkit for Inventor - common development files
+libsord-dev - library for storing RDF data in memory (development files)
+libsoundgen-dev - GPE sound generator (development headers)
+libsource-highlight-qt4-dev - Syntax highlighting library for Qt (development files)
+libspandsp-dev - Telephony signal processing library - development headers
+libsphinxbase-dev - Sphinx base libraries - development files
+libspread1-dev - Development files for libspread
+libspring-security-2.0-java-doc - documentation for Spring Security 2.0
+libspring-security-acl-2.0-java - modular Java/J2EE application security framework - ACL
+libspring-security-core-2.0-java - modular Java/J2EE application security framework - Core
+libspring-security-ntlm-2.0-java - modular Java/J2EE application security framework - NTLM
+libspring-security-portlet-2.0-java - modular Java/J2EE application security framework - Portlet
+libspring-security-taglibs-2.0-java - modular Java/J2EE application security framework - Taglibs
+libsrecord-dev - library for manipulating EPROM load files (development)
+libsrtp0-dev - Secure RTP (SRTP) and UST Reference Implementations - development files
+libssh2-1-dev - SSH2 client-side library (development headers)
+libstarpu-dev - Task scheduler for heterogeneous multicore machines - dev
+libstderesi0-dev - The ERESI standard library
+libsteptalk-dev - The GNUstep Scripting Framework (development files)
+libsubunit-dev - Unit testing protocol - Development headers and static library for libsubunit
+libsvn-dump-perl - module for parsing Subversion dumps
+libsvncpp-dev - Subversion C++ library (development files)
+libswami-dev - MIDI instrument editor - development files
+libsword-dev - Development files for libsword
+libsx-dev - Development files (headers and static libraries) for libsx
+libsylph-dev - e-mail client library derived from Sylpheed - devel files
+libsysactivity-dev - Retrieves statistics of the system's activity (development headers)
+libtango-headers - The Developer's Library for D -- Headers
+libtaningia-dev - Development files for lib taningia
+libtar-dev - C library for manipulating tar archives (development files)
+libtelepathy-qt4-dev - Qt 4 Telepathy library (headers and static library)
+libtext-header-perl - RFC 822/2068 header and unheader functions
+libtext-markdown-perl - Markdown and MultiMarkdown markup languages library
+libthunar-vfs-1-dev - Development files for thunar-vfs
+libthunarx-2-dev - Development files for libthunarx
+libticables-dev - support library for Texas Instruments link cables [development files]
+libticalcs-dev - Texas Instruments calculator communication library [development files]
+libticonv-dev - Texas Instruments calculators charset conversions
+libtifiles-dev - Texas Instruments calculators file formats library [development files]
+libtk-img-dev - Extended image format support for Tcl/Tk (development files)
+libtntnet-dev - Tntnet library development headers
+libtokyotyrant-dev - Tokyo Tyrant development files
+libtrace3-dev - development headers for the libtrace network processing library
+libtrilinos-dev - parallel solver libraries within an object-oriented software framework
+libtse3-dev - portable MIDI sequencer engine in C++ - development files
+libtulip-dev - Tulip graph library - core development files
+libtulip-ogl-dev - Tulip graph library - OpenGL development files
+libtulip-pluginsmanager-dev - Tulip graph library - Qt/OpenGL GUI development files
+libtulip-qt4-dev - Tulip graph library - Qt/OpenGL GUI development files
+libtuxcap-dev - framework for developing 2D games - development files
+libucil2-dev - text and graphics overlays onto video images - development files
+libucommon-dev - Headers and static link library for ucommon
+libucommon-doc - Class documentation for ucommon runtime
+libui0-dev - The ERESI user interface
+libumlib-dev - View-OS in user space - Development files
+libunicap2-dev - unified interface to video capture devices - development files
+libunicapgtk2-dev - graphical widgets for unicap - development files
+libunittest++-dev - unit testing framework for c++, static library and headers
+libusbip-dev - USB device sharing system over IP network (development files)
+libvalhalla-dev - tiny media scanner library -- development files
+libvanessa-adt-dev - Headers and static libraries for vanessa_adt
+libvanessa-logger-dev - Headers and static libraries for libvanessa-logger
+libvanessa-socket-dev - Headers and static libraries for libvanessa_socket
+libvc-dev - vCard library - development files
+libvcdinfo-dev - library to extract information from VideoCD (development files)
+libvdkbuilder2-dev - Header files and static libraries for VDKBuilder plugins
+libventrilo-dev - library for communicating with Ventrilo servers (development)
+libvisca-dev - Development files for libvisca
+libvpb-dev - Voicetronix telephony hardware userspace library development files
+libvtkgdcm2-dev - Grassroots DICOM VTK development libraries and headers
+libwildmidi-dev - software MIDI player library headers
+libwmaker0-dev - Static libraries and headers for Window Maker applications
+libwpeditor-dev - WordPad Text Editor library - development files
+libwraster3-dev - Static libraries and headers of Window Maker rasterizer
+libwxsmithlib-dev - wxSmith development files (Code::Blocks plugin for RAD GUI editing)
+libx264-dev - development files for libx264
+libxbae-dev - Xbae Matrix Widget development package
+libxcomp-dev - NX X compression library---headers
+libxdg-basedir-dev - Implementation of the XDG Base Directory Specifications (development files)
+libxdo-dev - library for simulating X11 keyboard/mouse input
+libxfce4ui-1-dev - Development files for libxfce4ui
+libxfce4util-dev - Development files for libxfce4util4
+libxfcegui4-dev - Development files for libxfcegui4-4
+libxkbcommon-dev - library interface to the XKB compiler - shared library
+libxmlsec1-dev - Development files for the XML security library
+libxmltooling-dev - C++ XML parsing library with encryption support (development)
+libxosd-dev - X On-Screen Display library - development
+libxqdbm-dev - QDBM Database Libraries for C++ [development]
+libxqilla-dev - XQuery and XPath 2.0 library - Development files
+libxr1-dev - SSL-capable XML-RPC implementation - development files
+libzita-convolver-dev - Development files (headers) for libzita-convolver library
+libzita-resampler-dev - Development files (headers) for libzita-resampler library
+libzrtpcpp-dev - Headers and static link library for libzrtpcpp
+linux-libc-dev-armel-cross - Linux Kernel Headers for development (for cross-compiling)
+linux-libc-dev-armhf-cross - Linux Kernel Headers for development (for cross-compiling)
+llvm-dev - Low-Level Virtual Machine (LLVM), libraries and headers
+lsb-build-base3 - LSB v3.x Development tools base package
+lsb-build-desktop3 - LSB v3.x Development tools desktop package
+lxappearance-dev - new feature-rich GTK+ theme switcher - development files
+lzma-source - Source for the lzma kernel module
+mairix - indexes and searches email in locally stored email
+mce-dev - development files for mce
+mingw-w64-dev - Development files for MinGW-w64
+minpack-dev - nonlinear equations and nonlinear least squares static library
+mongodb-dev - An object/document-oriented database (development)
+mpop - POP3 mail retriever
+mpop-gnome - POP3 mail retriever - with GNOME keyring support
+msp430-libc - Standard C library for TI MSP430 development
+msp430mcu - Spec files, headers and linker scripts for TI's MSP430 targets
+muttprint - Pretty printing of mails
+nast - packet sniffer and lan analyzer
+ncaptool - network capture tool
+neko-dev - Lightweight virtual machine - headers
+netfilter-extensions-source - source for netfilter kernel modules derived from patch-o-matic-ng
+ntlmaps - NTLM Authorization Proxy Server
+nzb - An nzb based Usenet binary grabber
+openvas-server-dev - remote network security auditor - static libraries and headers
+pcaputils - specialized libpcap utilities
+pev - text-based tool to analyze PE files
+plptools-dev - plptools (development files)
+pvm-dev - Parallel Virtual Machine - development files
+python-authres - RFC 5451 Authentication Results Header manipulation for Python
+python-django-debug-toolbar - Embedded debugging toolbar for Django projects
+python-mailer - A module that simplifies sending email
+python-ncap - Python bindings for libncap
+python-pefile - Portable Executable (PE) parsing module for Python
+python-pesto - a library for Python web applications
+python-requests - elegant and simple HTTP library for Python, built for human beings
+python3-authres - RFC 5451 Authentication Results Header manipulation for Python3
+remmina-dev - remote desktop client (development headers)
+robodoc - source code documentation tool
+ruby-tmail - Mail class library for Ruby
+scratchbox2 - Transparent cross compiling environment
+selinux-policy-ubuntu-dev - Security-Enhanced Linux Reference Policy Development Headers
+semi - library to provide MIME feature for emacsen
+shiboken - CPython bindings generator for C++ libraries
+shiboken-dbg - debugging symbols for shiboken and its library
+shiboken-doc - CPython bindings generator for C++ libraries documentation
+simgear-dev - Simulator Construction Gear -- development files
+slrnpull - pulls a small newsfeed from an NNTP server
+snappea-dev - development files for SnapPea hyperbolic 3-manifold tool
+speakup-source - Source of the speakup kernel modules
+spellutils - Utilities to spell-check selectively
+spf-milter-python - RFC 4408 compliant SPF Milter for Sendmail and Postfix
+spikeproxy - Web application security testing proxy
+sqcwa - Workaround for Squid not caching some pages
+styx-dev - combined parser/scanner generator development files
+swish-e-dev - Simple Web Indexing System for Humans - Enhanced
+tcpxtract - extracts files from network traffic based on file signatures
+trafficserver - fast, scalable and extensible HTTP/1.1 compliant caching proxy server
+ulog-acctd - Accounting daemon for Linux 2.4+ netfilter
+utouch - A meta-package to install gesture libraries and tools
+vpb-driver-source - Voicetronix telephony hardware driver source
+vstream-client-dev - Development headers for vstream-client
+weechat-dev - Fast, light and extensible chat client - developement headers
+west-chamber-source - iptable extension for bypassing content filtering firewall (module source)
+wx2.6-headers - wxWidgets Cross-platform C++ GUI toolkit (header files)
+wx2.8-headers - wxWidgets Cross-platform C++ GUI toolkit (header files)
+xcite - exciting cite utility for Emacsen
+xfaces - Displays an image for each piece of mail in your mailbox
+xpaint-dev - simple paint program for X (development files)
+xtables-addons-source - Extensions targets and matches for iptables [modules sources]
+znc-dev - advanced modular IRC bouncer (development headers)
+libgatos-dev - The General ATI TV and Overlay Software(GATOS): Dev Lib and Headers
+libopenspc-dev - library for playing SPC files (development headers)
+dpkg-cross - Ferramentas para compilar pacotes Debian para outras plataformas
+e17-dev - Enlightenment headers, static libraries and documentation
+fenix-dev - development environment for making 2D games - header files
+libalberta2-dev - Adaptive finite element library (development headers)
+libcolorblind-dev - Pixel Filter for colorblind accessibility - headers
+libdca-dev - decoding library for DTS Coherent Acoustics streams (development)
+libdts-dev - backward compatibility place-holder for libdca
+libgdal1-dev - Geospatial Data Abstraction Library - Development files
+libgeos-dev - Geometry engine for GIS - Development files
+libglpk-dev - linear programming kit - development files
+libgnelib-dev - the Game Networking Engine (development headers)
+libh323plus-dev - H.323 aka VoIP library development files
+libhawknl-dev - Hawk game oriented network library API (development headers)
+libmapnik-dev - C++/Python toolkit for developing GIS applications (devel)
+libmmpong0.9-dev - massively multiplayer pong game library (development headers)
+libopal-dev - OPAL library header files
+libopencascade-foundation-dev - Ficheiros de desenvolvimento da biblioteca da plataforma OpenCASCADE CAE
+libopencascade-modeling-dev - Ficheiros de desenvolvimento da biblioteca da plataforma OpenCASCADE CAE
+libopencascade-ocaf-dev - Ficheiros de desenvolvimento da biblioteca da plataforma OpenCASCADE CAE
+libopencascade-ocaf-lite-dev - Ficheiros de desenvolvimento da biblioteca da plataforma OpenCASCADE CAE
+libopencascade-visualization-dev - Ficheiros de desenvolvimento da biblioteca da plataforma OpenCASCADE CAE
+libopenh323-dev - H.323 aka VoIP library development files
+libplayer-dev - a multimedia A/V abstraction layer API -- development files
+libseed-gtk3-dev - GObject JavaScript bindings for the webkit engine - Development
+libsqlite0-dev - SQLite development files
+libtntdb-dev - Development headers for tntdb
+libvala-0.10-dev - C# like language for the GObject system - development headers
+libwebauth-dev - Development files for WebAuth authentication
+llgal - Gerador de galeria online de linha de comandos
+maildrop - Agente de entrega de correio com capacidade de filtragem
+mlmmj - Gestor de listas de mail independente do servidor de mail
+module-assistant - Ferramenta para facilitar a criação de pacotes de módulos
+openexr - Visualizador e documentação para o formato de imagem OpenEXR
+x11proto-xf86misc-dev - X11 XFree86-Miscellaneous extension wire protocol
+xmms2-dev - XMMS2 - plug-in development files
+altermime - utilitário usado para alterar pacotes de e-mail codificados em MIME
+biosquid-dev - headers and static library for biological sequence analysis
+bittwist - gerador de pacotes Ethernet baseado na libpcap
+comedi-source - código-fonte do módulo Comedi para o kernel
+connman-dev - Development files for connman
+libapiextractor-dbg - debugging symbols for the library headers parser
+libapiextractor-dev - development files for the library headers parser
+libapiextractor0.10 - library headers parser that creates an API abstract representation
+libasis2008-dev - Ada Semantic Interface Specification (ASIS) headers and libraries
+libatlas-dev - Automatically Tuned Linear Algebra Software, C header files
+libboo-cil-dev - python-like language and compiler for the CLI - library files
+libc-client2007e-dev - c-client library for mail protocols - development files
+libcanna1g-dev - input system for Japanese - development files
+libcelt-dev - The CELT codec library development files
+libcherokee-base0-dev - Cherokee web server - base libraries' development files
+libcherokee-client0-dev - Cherokee web server - Client libraries' development files
+libcherokee-server0-dev - Cherokee web server - Server librardevelopment files
+libclips-dev - CLIPS shared libraries
+libcompfaceg1 - Compress/decompress images for mailheaders, libc6 runtime
+libcompfaceg1-dev - Compress/decompress images for mailheaders, libc6 devel
+libcr-dev - Development files for BLCR
+libdcmtk2-dev - OFFIS DICOM toolkit development libraries and headers
+libgnokii-dev - Gnokii mobile phone interface library (development files)
+libgnomecups1.0-dev - GNOME library for CUPS interaction (headers)
+libgtask-dev - GObject library for asynchronous programming - development files
+libgtkhex0-dev - GNOME Hex editor for files (development headers)
+libitpp-dev - C++ library of signal processing and communication routines: Headers
+libjaula-dev - JSON parser/writer library for C++ (development files)
+liblink-grammar4-dev - Carnegie Mellon University's link grammar parser (development headers)
+libmikmod2-dev - A portable sound library - development files
+libmpg123-dev - MPEG layer 1/2/3 audio decoder -- development files
+libncap44 - network capture library
+libnl-dev - development library and headers for libnl
+liboil0.3-dev - Library of Optimized Inner Loops (development headers)
+libphysfs-dev - filesystem abstraction library for game programmers (development headers)
+librep-dev - development libraries and headers for librep
+libsmpeg-dev - SDL MPEG Player Library - development files
+libsnmpkit-dev - biblioteca de conexão SNMP multithread
+libsvga1-dev - console SVGA display development libraries and headers
+libxsettings-client-dev - utility functions for the Xsettings protocol (Development files)
+llvm-2.7-dev - Low-Level Virtual Machine (LLVM), libraries and headers
+lout - sistema tipográfico, uma alternativa ao (La)TeX
+octave3.2-headers - header files for the GNU Octave language (3.2 branch)
+openbox-dev - development files for the openbox window manager
+python-sepolgen - um módulo Python usado na geração de políticas SELinux
+spamprobe - filtro Bayesiano de spam
+testdisk - ferramenta de descoberta de disco e scanner de partição
+xserver-xorg-input-joystick-dev - X.Org X server -- joystick input driver (development headers)
+apache2-prefork-dev - Apache development headers - non-threaded MPM
+apache2-threaded-dev - Apache development headers - threaded MPM
+compiz-dev - OpenGL window and compositing manager - development files
+compiz-plugins-main-dev - Compiz plugins - main collection development files
+finch-dev - text-based multi-protocol instant messaging client - development
+firefox-dev - Safe and easy web browser from Mozilla - development files
+gnome-settings-daemon-dev - Headers for building applications communicating with gnome-settings-daemon
+insserv - Tool to organize boot sequence using LSB init.d script dependencies
+kalzium-dev - development headers for Kalzium
+kdelibs5-experimental-dev - experimental development files for the KDE Development Platform libraries
+kdesdk-misc - miscellaneous tools from the KDE Software Development Kit
+krb5-multidev - Development files for MIT Kerberos without Heimdal conflict
+libbind-dev - Static Libraries and Headers used by BIND
+libbrasero-media3-dev - CD/DVD burning library for GNOME - development
+libbrlapi-dev - Library for communication with BRLTTY - static libs and headers
+libc6-dev - Embedded GNU C Library: Development Libraries and Header Files
+libcanberra-dev - a simple abstract interface for playing event sounds
+libcanberra-gtk-common-dev - a simple abstract interface for playing event sounds
+libcanberra-gtk-dev - a simple abstract interface for playing event sounds
+libcanberra-gtk3-dev - a simple abstract interface for playing event sounds
+libclamav-dev - anti-virus utility for Unix - development files
+libdbus-1-dev - simple interprocess messaging system (development headers)
+libevince-dev - Document (PostScript, PDF) rendering library - development files
+libfreeradius-dev - FreeRADIUS shared library development files
+libfreetype6-dev - FreeType 2 font engine, development files
+libgdata-dev - Library for accessing GData webservices - development files
+libgeis-dev - Gesture engine interface support - dev files
+libgimp2.0-dev - Headers and other files for compiling plugins for GIMP
+libgl1-mesa-dev - free implementation of the OpenGL API -- GLX development files
+libglu1-mesa-dev - Mesa OpenGL utility library -- development files
+libjasper-dev - Development files for the JasPer JPEG-2000 library
+libkonqsidebarplugin-dev - konqueror sidebar plugin library development files
+libkpimutils4 - library for dealing with email addresses
+libkrb5-dev - Headers and development libraries for MIT Kerberos
+libksane-dev - scanner library development headers
+libldap2-dev - OpenLDAP development libraries
+libmission-control-plugins-dev - management daemon for Telepathy (headers for plugins)
+libmono-cil-dev - Mono Base Class Libraries (BCL) - Development files
+libpolkit-qt-1-dev - PolicyKit-qt-1 development files
+libpulse-dev - PulseAudio client development headers and libraries
+libpurple-dev - multi-protocol instant messaging library - development files
+libraptor1-dev - Raptor RDF parser and serializer development libraries and headers
+libsmbclient-dev - development files for libsmbclient
+libsnmp-dev - SNMP (Simple Network Management Protocol) development files
+libsvn-dev - Development files for Subversion libraries
+libv4l-dev - Collection of video4linux support libraries (development files)
+libwbclient-dev - Samba winbind client library - development files
+libxen-dev - Public headers and libs for Xen
+libxi-dev - X11 Input extension library (development headers)
+linux-backports-modules-headers-oneiric-generic - Backported driver headers for generic kernel image
+linux-headers-3.0.0-13 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-13-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-13-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-14 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-14-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-14-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-15 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-15-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-15-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-16 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-16-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-16-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-17 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-17-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-17-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-19 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-19-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-19-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-20 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-20-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-20-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-21 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-21-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-21-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-22 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-22-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-22-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-23 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-23-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-23-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-24 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-24-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-24-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-25 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-25-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-25-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-26 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-26-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-26-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-27 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-27-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-27-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-28 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-28-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-28-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-29 - Header files related to Linux kernel version 3.0.0
+linux-headers-3.0.0-29-generic - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-3.0.0-29-virtual - Linux kernel headers for version 3.0.0 on x86/x86_64
+linux-headers-generic - Generic Linux kernel headers
+linux-headers-lbm-3.0.0-16-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-17-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-19-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-20-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-21-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-22-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-23-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-24-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-25-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-26-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-27-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-28-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-29-generic - Header files related to linux-backports-modules version 3.0.0
+linux-headers-server - Linux kernel headers on Server Equipment.
+linux-headers-virtual - Linux kernel headers for virtual machines
+linux-libc-dev - Linux Kernel Headers for development
+linux-source-3.0.0 - Linux kernel source for version 3.0.0 with Ubuntu patches
+pidgin-dev - multi-protocol instant messaging client - development files
+python-gobject-dev - development headers for GObject Python bindings
+rhythmbox-dev - development files for the rhythmbox music player
+thunderbird-dev - Email, RSS and newsgroup client - development files
+xserver-xorg-dev - Xorg X server - development files
+xserver-xorg-input-evdev-dev - X.Org X server -- evdev input driver (development headers)
+xserver-xorg-input-synaptics-dev - Synaptics TouchPad driver for X.Org server (development headers)
+linux-backports-modules-headers-oneiric-generic-pae - Backported driver headers for generic-pae kernel image
+linux-headers-3.0.0-13-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-14-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-15-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-16-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-17-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-19-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-20-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-21-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-22-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-23-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-24-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-25-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-26-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-27-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-28-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-3.0.0-29-generic-pae - Linux kernel headers for version 3.0.0 on x86
+linux-headers-generic-pae - Generic Linux kernel headers
+linux-headers-lbm-3.0.0-16-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-17-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-19-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-20-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-21-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-22-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-23-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-24-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-25-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-26-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-27-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-28-generic-pae - Header files related to linux-backports-modules version 3.0.0
+linux-headers-lbm-3.0.0-29-generic-pae - Header files related to linux-backports-modules version 3.0.0
+asterisk-dev - Development files for Asterisk
+clearsilver-dev - headers and static library for clearsilver
+libexo-1-dev - Development files for libexo
+libopendkim-dev - Headers and development libraries for the OpenDKIM library
+libreoffice-report-builder - LibreOffice extension for building database reports
+libsilly - development files for the simple image loading library
+libvlc-dev - development files for libvlc
+libvlccore-dev - development files for libvlccore
+nginx-extras - nginx web server with full set of core modules and extras
+nginx-full - nginx web server with full set of core modules
+nginx-light - nginx web server with minimal set of core modules
+opendkim - Milter implementation of DomainKeys Identified Mail
+virtualbox-dkms - x86 virtualization solution - kernel module sources for dkms
+virtualbox-guest-dkms - x86 virtualization solution - guest addition module source for dkms
+linux-headers-2.6.38-8 - Header files related to Linux kernel version 2.6.38
+linux-headers-2.6.38-8-generic - Linux kernel headers for version 2.6.38 on x86/x86_64
